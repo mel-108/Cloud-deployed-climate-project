@@ -59,9 +59,9 @@ The application is deployed using Gradio and can be accessed through a web brows
 ## installation
 
 Clone the repository:
-```bash
+'''bash
 git clone https://github.com/mel-108/Cloud-deployed-climate-project.git
-
+'''
 Install the required libraries:
 pip install -r requirements.txt
 
