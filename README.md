@@ -56,11 +56,11 @@ Users can modify climate variables to simulate different future environmental co
 ## Cloud Deployment
 The application is deployed using Gradio and can be accessed through a web browser without any local installation.
 
-## ▶️ Installation
+## installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/mel-108/your-repository-name.git
+git clone https://github.com/mel-108/Cloud-deployed-climate-project.git
 
 Install the required libraries:
 pip install -r requirements.txt
